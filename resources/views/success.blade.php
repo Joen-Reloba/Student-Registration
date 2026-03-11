@@ -19,3 +19,4 @@
     <a href="{{ route('register.form') }}">Submit Another Response</a>
 </body>
 </html>
+ 

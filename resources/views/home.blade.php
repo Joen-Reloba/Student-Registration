@@ -10,4 +10,3 @@
     <a href="{{ route('register.form') }}">Go to Registration Form</a>
 </body>
 </html>
- 
